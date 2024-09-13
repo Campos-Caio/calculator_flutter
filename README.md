@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter project.
+Calculadora desenvolvida em Flutter para a atividade de Programacao Para dispositivos moveis. 
 
 ## Getting Started
 
